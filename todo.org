@@ -1,9 +1,9 @@
-* Form sub-workstreams
+* Form sub-workstreams (Enter names under desired bullet) <2025-07-10 Thu>
  - Literature review, gap analysis and case studies
  - Outreach
-    Organize invited sessions and short courses
+   + Organize invited sessions and short courses
  - Methodology
-   Forecast modeling
-   Optimizing Drug supply
+   + Forecast modeling
+   + Optimizing Drug supply
  - Explore potential collaborations with other related SWGs
- - Regulatory Aspects
+ - Regulatory aspects
