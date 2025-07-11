@@ -13,19 +13,23 @@
 
 2. Recruitment monitoring and forecasting: best practices and tools
 
-3. Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
+3. Study design and its impact on operations
 
-4. Ensuring representativeness of trial populations and generalizability
+  + Forrest Williamson:
+
+4. Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
+
+5. Ensuring representativeness of trial populations and generalizability
 
   + Bohdana Ratitch: How to dynamically monitor characteristics of participants enrolled in a clinical trial 
     with respect to the key characteristics of the target population and provide site enrollment targets for an ongoing trial to meet population representativeness objectives?
 
-5. Clinical drug supply optimization for just-in-time supply models
+6. Clinical drug supply optimization for just-in-time supply models
 
-6. Strategic data collection and analysis planning for alignment with Target Product Profile
+7. Strategic data collection and analysis planning for alignment with Target Product Profile
 
-7. Patient engagement: and best practices for evaluating participant satisfaction
+8. Patient engagement: and best practices for evaluating participant satisfaction
 
-8. Analysis implementation efficiency
+9. Analysis implementation efficiency
 
 Please enter a new focus area if the above list does not represent your key interests
