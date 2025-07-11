@@ -19,13 +19,14 @@
   | Vlad Anisimov         | Amgen    | vanisimo@amgen.com               | Methodology                   |
   | Christi Kleoudis      | AZ       | christi.kleoudis@astrazeneca.com |                               |
   | Andrew Chen           | Bayer    | andrew.chen@bayer.com            | Site selection and assessment |
-  | Clara Ccalimella      | Bayer    | clara.calimella@bayer.com        | Recruitment monitoring        |
+  | Clara Cali Mella      | Bayer    | clara.calimella@bayer.com        | Recruitment monitoring        |
   | Tobias Straubinger    | Bayer    | tobias.straubinger@bayer.com     | Forecasting                   |
   | Kaifeng Lu            | Beonemed | kaifeng.lu@beonemed.com          | Drug demand forecasting       |
+  | Haoyu Wang            | BMS      | haoyu.wang2@bms.com              |                               |
   | Inna Perevozskaya     | BMS      | inna.perevozskaya@bms.com        | Methodology                   |
+  | Oleksandr Savenkov    | BMS      | oleksandr.savenkov@bms.com       |                               |
   | Palanikumar Ravindran | BMS      | palanikumar.ravindran@bms.com    | AI/ML/Viz                     |
   | Zhuoxin Yu            | BMS      | zhuoxin.yu@bms.com               | AI/ML/Viz                     |
-  | Haoyu Wang            | BMS      | haoyu.wang2@bms.com              |                               |
   | Kyle Wathen           | Cytel    | kyle.wathen@cytel.com            | Software                      |
   | Robert Abugov         | FDA      | Robert.Abugov@fda.hhs.gov        |                               |
   | Bhargava Reddy        | JJIM     | breddy1@ITS.JNJ.com              | Operations                    |
@@ -248,3 +249,6 @@ ensuring trial integrity and efficiency throughout the adaptive
 process.
 
 *** IBC 2026
+** Questions raised
+ How to facilitate communication between workstreams on different
+ focus areas and promote collaboration
