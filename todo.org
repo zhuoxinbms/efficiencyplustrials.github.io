@@ -1,9 +1,31 @@
-* Form sub-workstreams (Enter names under desired bullet) <2025-07-10 Thu>
- - Literature review, gap analysis and case studies
- - Outreach
-   + Organize invited sessions and short courses
- - Methodology
-   + Forecast modeling
-   + Optimizing Drug supply
- - Explore potential collaborations with other related SWGs
- - Regulatory aspects
+* Workstreams <2025-07-10 Thu>
+  Please enter your name under each focus area if you are interested to actively contribute to the workstream 
+   (Please see the SWG proposal (Presentations/Proposal for a Scientific Working Group_submitted_2.pdf) for 
+    details on what wasoriginally envisaged under each focus area.)
+
+  Please also enter ONE key question that would be most important for you to address under the focus area
+  that you would like to contribute to.
+
+1. Site selection and performance modeling using data-driven approaches
+
+  + Bohdana Ratitch: Which predictive analytics and ML approaches are the most suitable and effective 
+    for data-driven site performance modeling?
+
+2. Recruitment monitoring and forecasting: best practices and tools
+
+3. Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
+
+4. Ensuring representativeness of trial populations and generalizability
+
+  + Bohdana Ratitch: How to dynamically monitor characteristics of participants enrolled in a clinical trial 
+    with respect to the key characteristics of the target population and provide site enrollment targets for an ongoing trial to meet population representativeness objectives?
+
+5. Clinical drug supply optimization for just-in-time supply models
+
+6. Strategic data collection and analysis planning for alignment with Target Product Profile
+
+7. Patient engagement: and best practices for evaluating participant satisfaction
+
+8. Analysis implementation efficiency
+
+* Please enter a new focus area if the above list does not represent your key interests
