@@ -12,6 +12,7 @@
     for data-driven site performance modeling?
 
 2. Recruitment monitoring and forecasting: best practices and tools
+Haoyu Wang: How best to predict enrollment given too slow/too fast scenarios are not uncommon at all?
 
 3. Study design and its impact on operations
 
