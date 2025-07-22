@@ -13,6 +13,7 @@
 
 2. Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast scenarios are not uncommon at all?
+  + Tobias Straubinger: What are the best-suited models for recruitment, which parameters improve the model and how can historic trial performance be used for future trial performance forecasting?
 
 3. Study design and its impact on operations
   + Haoyu Wang: How to further facilitate/simplify/remove hurdles when implementing innovative designs (e.g., inferential seamless) given current operational challenges/complexities?
