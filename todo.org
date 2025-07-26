@@ -10,6 +10,9 @@
 
   + Bohdana Ratitch: Which predictive analytics and ML approaches are the most suitable and effective 
     for data-driven site performance modeling?
+  + Palani Ravindran: Above question is comprehensive. Add on: 
+     - How do data privacy or access limitations impact the effectiveness of above?
+     - How to use RWD or external data sources to identify additional sites
 
 2. Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast scenarios are not uncommon at all?
