@@ -10,15 +10,20 @@
 
   + Bohdana Ratitch: Which predictive analytics and ML approaches are the most suitable and effective 
     for data-driven site performance modeling?
+  + Palani Ravindran: Above question is comprehensive. Add on: 
+     - How do data privacy or access limitations impact the effectiveness of above?
+     - How to use RWD or external data sources to identify additional sites
 
 2. Recruitment monitoring and forecasting: best practices and tools
-+ Haoyu Wang: How best to predict enrollment given too slow/too fast scenarios are not uncommon at all?
+  + Haoyu Wang: How best to predict enrollment given too slow/too fast scenarios are not uncommon at all?
+  + Tobias Straubinger: What are the best-suited models for recruitment, which parameters improve the model and how can historic trial performance be used for future trial performance forecasting?
 
 3. Study design and its impact on operations
-+ Haoyu Wang: How to further facilitate/simplify/remove hurdles when implementing innovative designs (e.g., inferential seamless) given current operational challenges/complexities?
+  + Haoyu Wang: How to further facilitate/simplify/remove hurdles when implementing innovative designs (e.g., inferential seamless) given current operational challenges/complexities?
   + Forrest Williamson:
 
 4. Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
+  + Jun Xing: How can we design and implement decentralized, pragmatic, and observational trials in a way that optimally balances operational feasibility, gap between trail design assumptions between efficacy and effectiveness, and struggle to maintain high data quality, while aligning with real-world clinical practice?
 
 5. Ensuring representativeness of trial populations and generalizability
 
@@ -33,4 +38,8 @@
 
 9. Analysis implementation efficiency
 
+10. Dynamic Trial Monitoring & Adaptive Operations
+  + Palani Ravindran: Which operational metrics and AI/ML techniques are most predictive and reliable for emerging risks in ongoing clinical trials (e.g., site/patient anomalies, protocol deviations)?
+
 Please enter a new focus area if the above list does not represent your key interests
+
