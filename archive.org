@@ -10,7 +10,6 @@
   | Bohdana Ratitch | Bayer | bohdana.ratitch@bayer.com | Outreach   |
   |-----------------+-------+---------------------------+------------|
 
-
  - Members
   |----+-----------------------+----------+----------------------------------+-------------------------------|
   |    | Who                   | Where    | Email                            | Interests                     |
@@ -35,8 +34,6 @@
   | 18 | Jun Xing              | Sanofi   | Jun.Xing@sanofi.com              |                               |
   |----+-----------------------+----------+----------------------------------+-------------------------------|
   #+TBLFM: $1=@#-1
-
- Anisimov, Vlad <vanisimo@amgen.com>; Bohdana Ratitch <bohdana.ratitch@bayer.com>; Kyle Wathen <kyle.wathen@cytel.com>; inna.perevozskaya@bms.com; Zhuoxin.Yu@bms.com; Palanikumar.Ravindran@bms.com; clara.calimella@bayer.com; andrew.chen@bayer.com; tobias.straubinger@bayer.com; xin.wang@abbvie.com; Kaifeng Lu <kaifeng.lu@beonemed.com>; Reddy, Bhargava [JRDUS] <BReddy1@its.jnj.com>; Forrest Williamson <forrest_williamson@lilly.com>; haoyu.wang2@bms.com; Jun.Xing@sanofi.com; Abugov, Robert <Robert.Abugov@fda.hhs.gov>; Kleoudis, Christi <christi.kleoudis@astrazeneca.com>
  
 **** Expertise
   - Volodymyr Anisimov, vanisimov@amgen.com
