@@ -11,29 +11,33 @@
   |-----------------+-------+---------------------------+------------|
 
 
- - Candidate Members
-  |-----------------------+----------+----------------------------------+-------------------------------|
-  | Who                   | Where    | Email                            | Interests                     |
-  |-----------------------+----------+----------------------------------+-------------------------------|
-  | Xin Wang              | Abbvie   | xin.wang@abbvie.com              | Site selection                |
-  | Vlad Anisimov         | Amgen    | vanisimo@amgen.com               | Methodology                   |
-  | Christi Kleoudis      | AZ       | christi.kleoudis@astrazeneca.com |                               |
-  | Andrew Chen           | Bayer    | andrew.chen@bayer.com            | Site selection and assessment |
-  | Clara Cali Mella      | Bayer    | clara.calimella@bayer.com        | Recruitment monitoring        |
-  | Tobias Straubinger    | Bayer    | tobias.straubinger@bayer.com     | Forecasting                   |
-  | Kaifeng Lu            | Beonemed | kaifeng.lu@beonemed.com          | Drug demand forecasting       |
-  | Haoyu Wang            | BMS      | haoyu.wang2@bms.com              |                               |
-  | Inna Perevozskaya     | BMS      | inna.perevozskaya@bms.com        | Methodology                   |
-  | Oleksandr Savenkov    | BMS      | oleksandr.savenkov@bms.com       |                               |
-  | Palanikumar Ravindran | BMS      | palanikumar.ravindran@bms.com    | AI/ML/Viz                     |
-  | Zhuoxin Yu            | BMS      | zhuoxin.yu@bms.com               | AI/ML/Viz                     |
-  | Kyle Wathen           | Cytel    | kyle.wathen@cytel.com            | Software                      |
-  | Robert Abugov         | FDA      | Robert.Abugov@fda.hhs.gov        |                               |
-  | Bhargava Reddy        | JJIM     | breddy1@ITS.JNJ.com              | Operations                    |
-  | Forrest Williamson    | Lilly    | forrest_williamson@lilly.com     | Pediatric                     |
-  | Jun Xing              | Sanofi   | Jun.Xing@sanofi.com              |                               |
-  |-----------------------+----------+----------------------------------+-------------------------------|
-  
+ - Members
+  |----+-----------------------+----------+----------------------------------+-------------------------------|
+  |    | Who                   | Where    | Email                            | Interests                     |
+  |----+-----------------------+----------+----------------------------------+-------------------------------|
+  |  1 | Xin Wang              | Abbvie   | xin.wang@abbvie.com              | Site selection                |
+  |  2 | Vlad Anisimov         | Amgen    | vanisimo@amgen.com               | Methodology                   |
+  |  3 | Christi Kleoudis      | AZ       | christi.kleoudis@astrazeneca.com |                               |
+  |  4 | Gabriel Abreu         | AZ       | gabriel.abreu@astrazeneca.com    |                               |
+  |  5 | Andrew Chen           | Bayer    | andrew.chen@bayer.com            | Site selection and assessment |
+  |  6 | Clara Cali Mella      | Bayer    | clara.calimella@bayer.com        | Recruitment monitoring        |
+  |  7 | Tobias Straubinger    | Bayer    | tobias.straubinger@bayer.com     | Forecasting                   |
+  |  8 | Kaifeng Lu            | Beonemed | kaifeng.lu@beonemed.com          | Drug demand forecasting       |
+  |  9 | Haoyu Wang            | BMS      | haoyu.wang2@bms.com              |                               |
+  | 10 | Inna Perevozskaya     | BMS      | inna.perevozskaya@bms.com        | Methodology                   |
+  | 11 | Oleksandr Savenkov    | BMS      | oleksandr.savenkov@bms.com       |                               |
+  | 12 | Palanikumar Ravindran | BMS      | palanikumar.ravindran@bms.com    | AI/ML/Viz                     |
+  | 13 | Zhuoxin Yu            | BMS      | zhuoxin.yu@bms.com               | AI/ML/Viz                     |
+  | 14 | Kyle Wathen           | Cytel    | kyle.wathen@cytel.com            | Software                      |
+  | 15 | Robert Abugov         | FDA      | robert.abugov@fda.hhs.gov        |                               |
+  | 16 | Bhargava Reddy        | JJIM     | breddy1@its.jnj.com              | Operations                    |
+  | 17 | Forrest Williamson    | Lilly    | forrest_williamson@lilly.com     | Pediatric                     |
+  | 18 | Jun Xing              | Sanofi   | Jun.Xing@sanofi.com              |                               |
+  |----+-----------------------+----------+----------------------------------+-------------------------------|
+  #+TBLFM: $1=@#-1
+
+ Anisimov, Vlad <vanisimo@amgen.com>; Bohdana Ratitch <bohdana.ratitch@bayer.com>; Kyle Wathen <kyle.wathen@cytel.com>; inna.perevozskaya@bms.com; Zhuoxin.Yu@bms.com; Palanikumar.Ravindran@bms.com; clara.calimella@bayer.com; andrew.chen@bayer.com; tobias.straubinger@bayer.com; xin.wang@abbvie.com; Kaifeng Lu <kaifeng.lu@beonemed.com>; Reddy, Bhargava [JRDUS] <BReddy1@its.jnj.com>; Forrest Williamson <forrest_williamson@lilly.com>; haoyu.wang2@bms.com; Jun.Xing@sanofi.com; Abugov, Robert <Robert.Abugov@fda.hhs.gov>; Kleoudis, Christi <christi.kleoudis@astrazeneca.com>
+ 
 **** Expertise
   - Volodymyr Anisimov, vanisimov@amgen.com
   - Inna Perevozskaya, inna.perevozskaya@bms.com
@@ -252,3 +256,7 @@ process.
 ** Questions raised
  How to facilitate communication between workstreams on different
  focus areas and promote collaboration
+* Agenda
+** ICH E20 adaptive design comments
+** BASS 2025
+** IBC 2026
