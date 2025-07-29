@@ -20,7 +20,6 @@
 
 3. Study design and its impact on operations
   + Haoyu Wang: How to further facilitate/simplify/remove hurdles when implementing innovative designs (e.g., inferential seamless) given current operational challenges/complexities?
-
   + Forrest Williamson:
 
 4. Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
