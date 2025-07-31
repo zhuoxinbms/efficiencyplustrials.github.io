@@ -1,4 +1,4 @@
-* Efficiency+ Kick-off July 16, 2025
+* Kick-off July 16, 2025
 ** Introduction
 *** People
  - Co-Chairs
@@ -34,7 +34,7 @@
   | 18 | Jun Xing              | Sanofi   | Jun.Xing@sanofi.com              |                               |
   |----+-----------------------+----------+----------------------------------+-------------------------------|
   #+TBLFM: $1=@#-1
- 
+
 **** Expertise
   - Volodymyr Anisimov, vanisimov@amgen.com
   - Inna Perevozskaya, inna.perevozskaya@bms.com
@@ -253,7 +253,97 @@ process.
 ** Questions raised
  How to facilitate communication between workstreams on different
  focus areas and promote collaboration
-* Agenda
+* General Meeting August 14, 2025
+** People
+  |----+---+-----------------------+----------+-------------------------------|
+  |    | @ | Who                   | Where    | Interests                     |
+  |----+---+-----------------------+----------+-------------------------------|
+  |  1 |   | Xin Wang              | Abbvie   | Site selection                |
+  |  2 |   | Vlad Anisimov         | Amgen    | Methodology                   |
+  |  3 |   | Christi Kleoudis      | AZ       |                               |
+  |  4 |   | Gabriel Abreu         | AZ       |                               |
+  |  5 |   | Andrew Chen           | Bayer    | Site selection and assessment |
+  |  6 | Y | Bohdana Ratitch       | Bayer    | Outreach                      |
+  |  7 |   | Clara Cali Mella      | Bayer    | Recruitment monitoring        |
+  |  8 |   | Tobias Straubinger    | Bayer    | Forecasting                   |
+  |  9 |   | Kaifeng Lu            | Beonemed | Drug demand forecasting       |
+  | 10 |   | Haoyu Wang            | BMS      |                               |
+  | 11 |   | Inna Perevozskaya     | BMS      | Methodology                   |
+  | 12 |   | Oleksandr Savenkov    | BMS      |                               |
+  | 13 |   | Palanikumar Ravindran | BMS      | AI/ML/Viz                     |
+  | 14 |   | Zhuoxin Yu            | BMS      | AI/ML/Viz                     |
+  | 15 |   | Kyle Wathen           | Cytel    | Software                      |
+  | 16 |   | Robert Abugov         | FDA      |                               |
+  | 17 |   | Bhargava Reddy        | JJIM     | Operations                    |
+  | 18 | Y | Fei Chen              | JJIM     | Regulatory                    |
+  | 19 |   | Forrest Williamson    | Lilly    | Pediatric                     |
+  | 20 |   | Jun Xing              | Sanofi   |                               |
+  |----+---+-----------------------+----------+-------------------------------|
+  #+TBLFM: $1=@#-1
+  
+** workstreams
 ** ICH E20 adaptive design comments
-** BASS 2025
-** IBC 2026
+ Propose change to section 5.6
+ Propose to add the following paragraph to this section:
+ 
+ Adaptations in clinical trials inherently introduce unpredictable
+ demands on drug supply, potentially causing delays that adversely
+ impact trial timelines. This challenge presents a significant
+ opportunity to underscore the crucial role of operational planning in
+ adaptive design strategies. An enhanced focus should be placed on
+ thoroughly assessing the operational characteristics—specifically
+ examining the impacts of adaptations on drug supply, randomization
+ processes, data quality, and considerations for Multi-Regional
+ Clinical Trials (MRCT), Decentralized Clinical Trials (DCT) and
+ Pragmatic Clinical Trials (PCT). When evaluating the benefits and
+ drawbacks of adaptive designs in contrast to traditional approaches,
+ these operational aspects are pivotal. Moreover, the introduction of
+ a 'design for adaptive operations' should be championed, ensuring
+ that operational planning is as rigorously conceived as the
+ statistical methods detailed in this guidance document. Doing so will
+ help align operational strategies with statistical rigor to optimize
+ trial efficiency and mitigate risks associated with supply
+ fluctuations and other operational challenges.
+
+** Conferences
+*** BASS 2025 workshop (November 2025 Savannah)
+ Anyone interested in presenting?
+ 
+*** ENAR 2026 Indianapolis
+
+Kyle Wathen: Chair (Emerging Software Tools for Planning and Monitoring)
+
+Inna Perevozskaya: Methods in Trial Monitoring and Operational Excellence: An Overview
+Vlad Anisimov: Advanced Data-Driven Statistical Technologies for Designing and Forecasting Clinical Trial Operations
+Forrest Williamson: Challenges of Pediatric Studies: Unlocking Opportunities for Operational Innovation
+Ziqian Geng: Complexities of Randomization Setup in Platform Trials: A Statistician’s Perspective
+
+*** IBC 2026 Seoul
+ Fei Chen : Efficiency+ Scientific Working Group
+ 
+ Xun Chen : Data-Driven Decision Making: The Role of Statistical Modeling in Improving Clinical Trial Success
+ Vlad Anisimov : Advanced Data-Driven Statistical Technologies for Designing and Forecasting Clinical Trial Operations
+ Eun Young Suh : Operational Challenges and Lessons Learned in a Very Large Phase 3 Program
+ Palanikumar Ravindran : Integrating GenAI-Enabled Machine Learning Models for Optimization of Clinical Trial Operations and Success Metrics
+ Kyle Wathen : Emerging Software Tools for Planning and Monitoring
+
+*** MBSW 2026
+*** JSM 2026 SWG working session?
+*** PSI 2026
+ Central Monitoring SWG
+*** RISW 2026
+*** Operations focus conferences?
+ | Society for Clinical Trials (SCT) Annual Meeting | Clinical trial design, implementation             | Oct 2026  |
+ | Clinical Trials Methodology Conference           | Advanced clinical trial design, methodology       | Feb 2026  |
+ | Conference on Statistical Practice (CSP)         | Practical statistical approaches in pharma trials | Sept 2025 |
+** Social Media
+*** Linkedin
+ efficiencyplustrials@gmail.com
+ https://www.linkedin.com/groups/13353006/ # group page
+*** X
+ @efficiencyplus
+** https://efficiencyplustrials.github.io/
+ needs updating and maintenance
+** Other SWGs
+ Centralized Statistical Monitoring and Quality Tolerance Limits
+  cannot find any information
