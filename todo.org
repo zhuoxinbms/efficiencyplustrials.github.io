@@ -1,7 +1,7 @@
 * Workstreams <2025-07-10 Thu>
   Please enter your name under each focus area if you are interested to actively contribute to the workstream 
    (Please see the SWG proposal (Presentations/Proposal for a Scientific Working Group_submitted_2.pdf) for 
-    details on what wasoriginally envisaged under each focus area.)
+    details on what was originally envisaged under each focus area.)
 
   Please also enter ONE key question that would be most important for you to address under the focus area
   that you would like to contribute to.
@@ -47,8 +47,16 @@
     enrollment targets for an ongoing trial to meet population
     representativeness objectives?
 
-6. Clinical drug supply optimization for just-in-time supply models
-
+6. Clinical drug supply optimization
+   + Kaifeng Lu: Improving drug supply assumptions and forecasts by
+     providing more accurate discontinuation/loss-to-follow
+     up/skipping-visit modeling
+   + Fei Chen: Overview of 4C and other drug demand forecast software
+     and workflows and provide practical guidelines on how to engage
+     stakeholders and improve workflow
+   + Fei Chen: how to demonstrate retroactively using existing supply
+     software like 4c counter-factual outcomes through simulation
+   
 7. Strategic data collection and analysis planning for alignment with Target Product Profile
 
 8. Patient engagement: and best practices for evaluating participant satisfaction
@@ -63,6 +71,12 @@
     
 11. Regulatory perspectives
   + Fei Chen: recommend more rigorous operational planning into study design
+
+12. Stakeholder engagement
+  + Fei Chen: How to effectively engage and collaborate across different
+    operational teams and functions (e.g. clinical supply chain vs
+    trial delivery & execution), convince stake holders to embrace
+    change and overcome territorial issues
     
 Please enter a new focus area if the above list does not represent your key interests
 

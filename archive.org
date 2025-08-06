@@ -281,6 +281,24 @@ process.
   |----+---+-----------------------+----------+-------------------------------|
   #+TBLFM: $1=@#-1
   
+** FDA contact lost
+All, FYI. Bob from FDA had to withdraw due to lack of resources from FDA’s point of view.
+
+For our general meeting that’s coming up I’d like to explore alternatives to engaging HAs on operational topics... Olga Marchenko suggested to me that perhaps we could enlist regulatory people in a “Group Advisor” role like what they do for the Stats for Oncology SWG. The bandwidth requirements for the advisor role will be minimal, so perhaps this might bring FDA to reconsider... If any of you have some ideas, please share here or we discuss next week together.
+
+From: Abugov, Robert <Robert.Abugov@fda.hhs.gov> 
+Sent: Tuesday, August 5, 2025 10:42 AM
+To: Chen, Fei [JRDUS] <FChen6@its.jnj.com>
+Subject: RE: [EXTERNAL] New ASA BIOP Scientific Working Group on Operational Efficiency
+
+Dear Fei,
+
+Our request for participation in this working group made its way to the highest level of management here in the Office of Biostatistics. Unfortunately, they did not feel there are adequate resources to cover your project at this time. As such, and unfortunately, I have to withdraw from participating.
+
+** Meeting Frequency Proposal
+ - Every two weeks for now to get started 
+ - Slow down to once a month in 6-12 months
+ - Slow further once sub workstreams gain momentum
 ** workstreams
 ** ICH E20 adaptive design comments
  Propose change to section 5.6
@@ -306,6 +324,13 @@ process.
  fluctuations and other operational challenges.
 
 ** Conferences
+*** RISW 2025
+ Reserve a room for us on Wednesday (9/24) of the meeting: Santoro, Kathleen <kathleen@amstat.org>
+
+ RISW co-chairs for 2025: Yingwen.dong@sanofi.com and Wanjie.sun@fda.hhs.gov
+
+ JSM 2026, contact 2026 chair Steve Novick (steven.novick@takeda.com) in March 2026.
+
 *** BASS 2025 workshop (November 2025 Savannah)
  Anyone interested in presenting?
  
@@ -347,3 +372,5 @@ Ziqian Geng: Complexities of Randomization Setup in Platform Trials: A Statistic
 ** Other SWGs
  Centralized Statistical Monitoring and Quality Tolerance Limits
   cannot find any information
+
+
