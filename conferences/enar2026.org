@@ -1,0 +1,161 @@
+* ENAR 2026 Invited Session Proposal Form
+All invited sessions are scheduled for 105 minutes. We will consider different formats including a session with 4 speakers, a session with 3 speakers plus a discussant, or a panel discussion. Each participant may be a speaker/panelist in at most one invited or contributed session. See our Participation & Opportunities graphic for more information. Panel discussions without individual presentations may enter “NA” for the individual speaker talk titles and abstracts.
+All session proposals will be evaluated for acceptance using the ENAR Invited Session Abstract Review Rubric, which reflects the meeting theme "Role of Statistics in an AI-augmented World" and ENAR’s continued commitment to putting together a high-quality scientific program that best serves the needs of all ENAR members.
+Please note that each abstract is limited to 1200 characters max (including spaces). Proposals are due by Friday, June 6 at 11:59pm EDT.
+You may go back to previous pages at any point during the submission process. You can also view a PDF version the entire form here. 
+Please contact the Program Chair, Tanya Garcia at tpgarcia@email.unc.edu or Co-Chair Linda Valeri at lv2424@cumc.columbia.edu for any queries. 
+** Session Title
+Enhancing Clinical Trial Efficiency through Statistics, AI, and
+Collaborative Innovation
+** Session Motivation
+The session will highlight state-of-the-art statistical methods and
+operational strategies to improve the efficiency of clinical trial
+execution, focusing on clinical study operational areas such as trial
+feasibility assessment, site selection and performance evaluation,
+patient recruitment planning and tracking, and clinical drug
+supply. The presentations will explore innovative analytical
+methodologies at the intersection of several fields, including
+Bayesian modeling, Data Science and AI/ML, clinical trial simulation,
+and data visualization, leveraging real-world and clinical trial data
+to maximize operational efficiency and excellence. The session aims to
+facilitate the exchange of insights, experiences, and best practices
+among statisticians from industry, academia and government, with the
+ultimate goal of establishing an area of methodological research and
+application focused on the optimization of clinical trial processes
+and outcomes.
+
+** Please select the category that best aligns with your invited session proposal.
+Applied Statistics	
+Please check which of these aspects of diversity and inclusion are reflected in your proposal. Check all that apply.
+*
+		Range of Degrees
+✓		Speakers Years of Experience (Early Career, Mid-career, Senior)
+✓		Gender
+✓		Race/Ethnicity
+		Sexual Orientation
+✓		Organization (Academia, Industry, Government)
+✓		Departments
+✓		Disciplines
+		Other:  	
+
+**** Role of Statistics in an AI-augmented World is our theme for 2026. Please briefly explain how your proposal relates to this theme.
+
+This invited session exemplifies the evolving role of statistics in an
+AI-augmented world by showcasing how statistical thinking, when
+combined with AI and data science, transforms clinical trial
+operations. Across all session topics—feasibility, monitoring,
+pediatric research, and software development—the use of AI-enhanced
+predictive modeling, Bayesian learning, and real-time analytics is
+central. These technologies do not replace statistical reasoning but
+rather augment it, enabling: • More adaptive, real-time
+decision-making in trial monitoring using AI-assisted dashboards and
+Bayesian posterior updates; • Improved patient recruitment planning
+and site performance prediction via machine learning models trained on
+historical and real-world data; • Smart software systems that blend
+AI-based forecasts with statistical uncertainty quantification for
+robust feasibility planning; Importantly, the session emphasizes the
+collaborative interplay between human-guided statistical insight and
+machine-driven data synthesis, as clinical operation is inherently a
+human endeavor with collaborations across different groups of a
+company, statistics, drug supply, trial execution, regulatory,
+etc. making it a model case study for how statisticians are redefining
+their role in the AI age — not as passive provider of algorithmic
+outputs, but as architects of responsible, interpretable, and
+operationally impactful AI systems in the biopharmaceutical domain.
+
+** Session Organizer
+
+Fei Chen Johnson & Johnson Innovative Medicine fchen6@its.jnj.com
+
+** Session Chair
+Kyle Wathen Cytel kyle.wathen@cytel.com
+
+** Inna Perevozskaya BMS inna.perevozskaya@bms.com
+
+Methods in Trial Monitoring and Operational Excellence: An Overview
+
+Operational monitoring in clinical trials is critical to ensuring data
+quality and achieving successful outcomes. This presentation will
+discuss innovative methodologies that leverage predictive analytics,
+AI/ML algorithms, and Bayesian frameworks to enhance trial
+monitoring. Emphasis will be placed on integrating tools like Quality
+Tolerance Limits for tracking site performance, participant
+compliance, and data reporting accuracy. Additionally, innovations in
+data visualization and analytics enhance the ability to detect early
+warning signs of inefficiencies in participant recruitment, protocol
+adherence, and data accuracy. By integrating these methods with modern
+operational frameworks, trial teams can transition from reactive to
+proactive strategies, enabling agile decision-making and resource
+allocation. This overview highlights the transformative potential of
+evidence-based monitoring methodologies in ensuring trial success
+while maintaining high standards of quality and efficiency.
+
+** Vlad Anisimov Amgen vanisimo@amgen.com
+
+Advanced Data-Driven Statistical Technologies for Designing and
+Forecasting Clinical Trial Operations
+
+Designing and forecasting clinical trial operations remains one of the
+most pressing challenges in modern drug development, with inefficient
+patient enrollment being a leading contributor to costly delays. This
+talk presents recent advances in statistical and analytic
+methodologies aimed at improving the predictability and efficiency of
+clinical trial execution. We introduce innovative data-driven
+technologies that enhance recruitment forecasting by accounting for
+key sources of uncertainty, including variability in site activation
+timelines, heterogeneous enrollment rates across sites, and temporal
+stochasticity. These models enable dynamic, stage-specific projections
+that better align operational plans with real-world trial behavior. A
+framework for optimizing cost-efficient recruitment strategies through
+intelligent site and country selection is also presented. This
+methodology incorporates operational constraints such as regional
+enrollment caps and cost differentials to balance feasibility and
+resource allocation. Interim reforecasting approaches that leverage
+accumulating data to adaptively adjust recruitment plans are discussed
+with the goal of maximizing the probability of meeting enrollment
+milestones. Additionally, statistical techniques for centralized
+monitoring are introduced to identify atypical performance patterns,
+flagging under- or over-performing sites and informing operational
+interventions. The talk also covers methods for forecasting key
+operational metrics critical to trial planning and oversight—such as
+projecting event accrual in oncology trials. The utility of these
+approaches is demonstrated through real-world case studies that
+illustrate their application in complex, global clinical programs.
+
+** Forrest Williamson Eli Lilly forrest_williamson@lilly.com
+
+Challenges of Pediatric Studies: Unlocking Opportunities for
+Operational Innovation
+
+Pediatric clinical trials face unique challenges, including limited
+patient populations, heightened ethical considerations, and complex
+regulatory environments. This talk will explore how to overcome these
+obstacles by employing advanced statistical methodologies and
+strategic trial designs. I will touch upon topics including
+recruitment strategies tailored to pediatric populations, predictive
+modeling for identifying suitable sites, and integrating patient and
+caregiver feedback into trial planning.
+
+** Ziqian Geng Abbvie ziqian.geng@abbvie.com
+
+Complexities of Randomization Setup in Platform Trials: A
+Statistician’s Perspective
+
+Platform trials have emerged as an innovative and resource-efficient
+design strategy in clinical research, enabling the simultaneous
+evaluation of multiple interventions in a perpetual fashion. While
+this adaptive design can accelerate the process of identifying
+effective interventions, it also introduces notable operational
+challenges. This presentation reflects statistical contributions in
+platform trial design and conduct, with a focus on the IRT and
+randomization setup. Key topics include: (1) the increased complexity
+associated with different entry criteria across arms, including but
+not limited to “recycling” patients and their treatment assignment
+other than previously participated and failed; and (2) the need to
+dynamically update randomization schedules to accommodate the addition
+and/or removal of trial arms during trial conduct, with considerations
+for optimal timing and allocation ratios. Our discussion aims to
+highlight practical strategies for overcoming these challenges,
+ensuring trial integrity and efficiency throughout the adaptive
+process.
+
