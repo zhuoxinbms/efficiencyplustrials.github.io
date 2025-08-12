@@ -280,7 +280,7 @@ process.
   | 20 |   | Jun Xing              | Sanofi      |                               |
   | 21 |   | Benjamin Hofner       | PEI         | Group Advisor                 |
   | 22 |   | Cristiana Mayer       | JNJ MedTech |                               |
-  | 23 |   | Bochao Jia            | Lilly       |                               |
+  | 23 |   | Bochao Jia            | Lilly       | Site selection and assessment |
   |----+---+-----------------------+-------------+-------------------------------|
   #+TBLFM: $1=@#-1
 
