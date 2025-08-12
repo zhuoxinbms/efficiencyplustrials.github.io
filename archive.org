@@ -1,6 +1,6 @@
 * Kick-off July 16, 2025
 ** Introduction
-*** Peopleq
+*** People
  - Co-Chairs
 
   |-----------------+-------+---------------------------+------------|
