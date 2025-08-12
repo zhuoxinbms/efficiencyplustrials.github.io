@@ -1,4 +1,5 @@
 * Workstreams <2025-07-10 Thu>
+
   Please enter your name under each focus area if you are interested to actively contribute to the workstream 
    (Please see the SWG proposal (Presentations/Proposal for a Scientific Working Group_submitted_2.pdf) for 
     details on what was originally envisaged under each focus area.)
@@ -6,7 +7,8 @@
   Please also enter ONE key question that would be most important for you to address under the focus area
   that you would like to contribute to.
 
-1. Site selection and performance modeling using data-driven approaches
+* Topics
+** Site selection and performance modeling using data-driven approaches
 
   + Bohdana Ratitch: Which predictive analytics and ML approaches are the most suitable and effective 
     for data-driven site performance modeling?
@@ -14,7 +16,7 @@
      - How do data privacy or access limitations impact the effectiveness of above?
      - How to use RWD or external data sources to identify additional sites
 
-2. Recruitment monitoring and forecasting: best practices and tools
+** Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast
     scenarios are not uncommon at all?
   + Tobias Straubinger: What are the best-suited models for
@@ -26,13 +28,13 @@
     actuals, historical projections on sites, expecations of local
     teams, baseline plan
 
-3. Study design and its impact on operations
+** Study design and its impact on operations
   + Haoyu Wang: How to further facilitate/simplify/remove hurdles when
     implementing innovative designs (e.g., inferential seamless) given
     current operational challenges/complexities?
   + Forrest Williamson:
 
-4. Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
+** Operational efficiencies in non-traditional trial settings (e.g., DCTs, PCTs) 
   + Jun Xing: How can we design and implement decentralized,
     pragmatic, and observational trials in a way that optimally
     balances operational feasibility, gap between trail design
@@ -40,14 +42,14 @@
     maintain high data quality, while aligning with real-world
     clinical practice?
     
-5. Ensuring representativeness of trial populations and generalizability
+** Ensuring representativeness of trial populations and generalizability
   + Bohdana Ratitch: How to dynamically monitor characteristics of
     participants enrolled in a clinical trial with respect to the key
     characteristics of the target population and provide site
     enrollment targets for an ongoing trial to meet population
     representativeness objectives?
 
-6. Clinical drug supply optimization
+** Clinical drug supply optimization
    + Kaifeng Lu: Improving drug supply assumptions and forecasts by
      providing more accurate discontinuation/loss-to-follow
      up/skipping-visit modeling
@@ -56,27 +58,28 @@
      stakeholders and improve workflow
    + Fei Chen: how to demonstrate retroactively using existing supply
      software like 4c counter-factual outcomes through simulation
-   
-7. Strategic data collection and analysis planning for alignment with Target Product Profile
+   + Fei Chen: simulation based platform for 4C + OMP
+     
+** Strategic data collection and analysis planning for alignment with Target Product Profile
 
-8. Patient engagement: and best practices for evaluating participant satisfaction
+** Patient engagement: and best practices for evaluating participant satisfaction
 
-9. Analysis implementation efficiency
+** Analysis implementation efficiency
 
-10. Dynamic Trial Monitoring & Adaptive Operations
+** Dynamic Trial Monitoring & Adaptive Operations
   + Palani Ravindran: Which operational metrics and AI/ML techniques
     are most predictive and reliable for emerging risks in ongoing
     clinical trials (e.g., site/patient anomalies, protocol
     deviations)?
     
-11. Regulatory perspectives
+** Regulatory perspectives
   + Fei Chen: recommend more rigorous operational planning into study design
 
-12. Stakeholder engagement
+** Stakeholder engagement
   + Fei Chen: How to effectively engage and collaborate across different
     operational teams and functions (e.g. clinical supply chain vs
     trial delivery & execution), convince stake holders to embrace
     change and overcome territorial issues
-    
-Please enter a new focus area if the above list does not represent your key interests
+
+* Please enter a new focus area if the above list does not represent your key interests
 
