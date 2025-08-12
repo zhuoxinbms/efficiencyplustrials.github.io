@@ -60,18 +60,12 @@
      software like 4c counter-factual outcomes through simulation
    + Fei Chen: simulation based platform for 4C + OMP
      
-** Strategic data collection and analysis planning for alignment with Target Product Profile
-
-** Patient engagement: and best practices for evaluating participant satisfaction
-
-** Analysis implementation efficiency
 
 ** Dynamic Trial Monitoring & Adaptive Operations
   + Palani Ravindran: Which operational metrics and AI/ML techniques
     are most predictive and reliable for emerging risks in ongoing
     clinical trials (e.g., site/patient anomalies, protocol
     deviations)?
-    
 ** Regulatory perspectives
   + Fei Chen: recommend more rigorous operational planning into study design
 
@@ -82,4 +76,10 @@
     change and overcome territorial issues
 
 * Please enter a new focus area if the above list does not represent your key interests
+
+** Strategic data collection and analysis planning for alignment with Target Product Profile
+
+** Patient engagement: and best practices for evaluating participant satisfaction
+
+** Analysis implementation efficiency
 
