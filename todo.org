@@ -10,6 +10,7 @@
   + Palani Ravindran:
      - How do data privacy or access limitations impact the effectiveness of above?
      - How to use RWD or external data sources to identify additional sites
+  + Bochao Jia: may need to evaluate site performance in different perspectives: operational performance (i.e focus on key risk indication and QTLs) and data quality (i.e     identify odds data pattern and anomalies). 
 
 ** Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast
