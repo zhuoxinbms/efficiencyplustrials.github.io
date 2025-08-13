@@ -22,6 +22,7 @@
     forecast, with what weight? Sources of information include:
     actuals, historical projections on sites, expecations of local
     teams, baseline plan
+  + Bochao Jia: We may need to differentiate the screening projection, enrollment (randomization projection) and the projection of time for enrollment completion may be       more interested.
 
 ** Study design and its impact on operations
   + Haoyu Wang: How to further facilitate/simplify/remove hurdles when
