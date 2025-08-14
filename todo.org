@@ -15,6 +15,7 @@
   + Palani Ravindran:
      - How do data privacy or access limitations impact the effectiveness of above?
      - How to use RWD or external data sources to identify additional sites
+  + Zhuoxin Yu: What public available data or commercially available database could be leveraged to select sites, investigators, and study committee members? How to utilize these data? 
 
 ** Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast
@@ -66,6 +67,8 @@
     are most predictive and reliable for emerging risks in ongoing
     clinical trials (e.g., site/patient anomalies, protocol
     deviations)?
+  + Zhuoxin Yu: How to better predict and monitor events and dropouts, both at study level and at region/site level?
+
 ** Regulatory perspectives
   + Fei Chen: recommend more rigorous operational planning into study design
 
