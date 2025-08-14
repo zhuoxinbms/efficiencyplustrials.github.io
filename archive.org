@@ -1,4 +1,4 @@
-* July 16, 2025 Initial Kick-off 
+* Initial Kick-off <July 16, 2025>
 ** Introduction
 *** People
  - Co-Chairs
@@ -45,125 +45,125 @@
  - Regulatory Aspects
  - Explore potential collaborations with other related SWGs
  - Role of GenAI???
-** Conferences in planning
+** Conferences in Planning
 *** BASS 2025 workshop
 *** ENAR 2026 invited
 *** IBC 2026 invited
-** Questions raised
+** Question Raised
  How to facilitate communication between workstreams on different
  focus areas and promote collaboration
-* August 14, 2025 General Meeting 
-** People
-  |----+---+-----------------------+-------------+-------------------------------|
-  |    | @ | Who                   | Where       | Interests                     |
-  |----+---+-----------------------+-------------+-------------------------------|
-  |  1 |   | Xin Wang              | Abbvie      | Site selection                |
-  |  2 |   | Vlad Anisimov         | Amgen       | Methodology                   |
-  |  3 |   | Christi Kleoudis      | AZ          |                               |
-  |  4 |   | Gabriel Abreu         | AZ          |                               |
-  |  5 |   | Andrew Chen           | Bayer       | Site selection and assessment |
-  |  6 | Y | Bohdana Ratitch       | Bayer       | Outreach                      |
-  |  7 |   | Clara Cali Mella      | Bayer       | Recruitment monitoring        |
-  |  8 |   | Tobias Straubinger    | Bayer       | Forecasting                   |
-  |  9 |   | Kaifeng Lu            | Beonemed    | Drug demand forecasting       |
-  | 10 |   | Haoyu Wang            | BMS         |                               |
-  | 11 |   | Inna Perevozskaya     | BMS         | Methodology                   |
-  | 12 |   | Oleksandr Savenkov    | BMS         |                               |
-  | 13 |   | Palanikumar Ravindran | BMS         | AI/ML/Viz                     |
-  | 14 |   | Zhuoxin Yu            | BMS         | AI/ML/Viz                     |
-  | 15 |   | Kyle Wathen           | Cytel       | Software                      |
-  | 16 |   | Robert Abugov         | FDA         |                               |
-  | 17 |   | Bhargava Reddy        | JJIM        | Operations                    |
-  | 18 | Y | Fei Chen              | JJIM        | Regulatory                    |
-  | 19 |   | Forrest Williamson    | Lilly       | Pediatric                     |
-  | 20 |   | Jun Xing              | Sanofi      |                               |
-  | 21 |   | Benjamin Hofner       | PEI         | Group Advisor                 |
-  | 22 |   | Cristiana Mayer       | JNJ MedTech |                               |
-  | 23 |   | Bochao Jia            | Lilly       | Site selection and assessment |
-  |----+---+-----------------------+-------------+-------------------------------|
+* General Meeting <August 14, 2025>
+** Attendance
+  |----+---+-----------------------+-----------+-------------------------------|
+  |    | @ | Who                   | Where     | Interests                     |
+  |----+---+-----------------------+-----------+-------------------------------|
+  |  1 |   | Xin Wang              | Abbvie    | Site selection                |
+  |  2 |   | Vlad Anisimov         | Amgen     | Methodology                   |
+  |  3 |   | Christi Kleoudis      | AZ        |                               |
+  |  4 |   | Gabriel Abreu         | AZ        |                               |
+  |  5 |   | Andrew Chen           | Bayer     | Site selection and assessment |
+  |  6 | Y | Bohdana Ratitch       | Bayer     | Outreach                      |
+  |  7 |   | Clara Cali Mella      | Bayer     | Recruitment monitoring        |
+  |  8 |   | Tobias Straubinger    | Bayer     | Forecasting                   |
+  |  9 |   | Kaifeng Lu            | Beonemed  | Drug demand forecasting       |
+  | 10 |   | Haoyu Wang            | BMS       |                               |
+  | 11 |   | Inna Perevozskaya     | BMS       | Methodology                   |
+  | 12 |   | Oleksandr Savenkov    | BMS       |                               |
+  | 13 |   | Palanikumar Ravindran | BMS       | AI/ML/Viz                     |
+  | 14 |   | Zhuoxin Yu            | BMS       | AI/ML/Viz                     |
+  | 15 |   | Kyle Wathen           | Cytel     | Software                      |
+  | 16 |   | Robert Abugov         | FDA       |                               |
+  | 17 |   | Bhargava Reddy        | JJIM      | Operations                    |
+  | 18 | Y | Fei Chen              | JJIM      | Regulatory                    |
+  | 19 |   | Forrest Williamson    | Lilly     | Pediatric                     |
+  | 20 |   | Jun Xing              | Sanofi    |                               |
+  | 21 |   | Benjamin Hofner       | PEI       | Group Advisor                 |
+  | 22 |   | Cristiana Mayer       | JJ Vision |                               |
+  | 23 |   | Bochao Jia            | Lilly     | Site selection and assessment |
+  | 24 |   | Jessica Cannon-Hill   | JJ Vision |                               |
+  |----+---+-----------------------+-----------+-------------------------------|
   #+TBLFM: $1=@#-1
 
-** FDA withdrew due to bandwidth
- Abugov, Robert
-** PEI contact gained
- Benjamin Hofner
-** Meeting Frequency Proposal
- - Every two weeks for now to get started 
+** Member Changes
+ - - Bob Abugov, FDA
+ + + Benjamin Hofner, PEI
+ + + Cristiana Mayer, Jessica Cannon-Hill, JJ Vision
+ + + Bochao Jia, Lilly
+
+** Potential EMA Leads from Bretz
+ - Kit Roes <kit.roes@radboudumc.nl>
+ - Frank Pétavy <frank.petavy@ema.europa.eu>
+   
+*** Group Advisor Role
+ Group Advisor Responsibilities (Minimal Time Commitment)
+  - Regulatory Guidance: Provide regulatory perspectives relevant to operations and promote applications of statistics and “design of operations” when appropriate.
+  - Ad Hoc Consultations: Participate in brief (e.g., quarterly) meeting(s) to share insights on regulatory trends or answer targeted questions from the group.
+  - Review Major Outputs: Review and comment on major deliverables (e.g., position statements, white papers) from a regulatory standpointlimited to essential feedback.
+  - Networking Connector: Recommend, if possible, other experts or resources for deep dives beyond the advisor’s scope or time constraints.
+  - Advisor role ideally requires no more than 1 hour/month on average.
+  - Participation in group meetings is optional, mainly for significant milestones.
+** Meeting Frequency
+ - Every two weeks to build a strong foundation of contents
  - Slow down to once a month in 6-12 months
  - Slow further once sub workstreams gain momentum
-** ICH E20 adaptive design comments
- Propose change to section 5.6
- Propose to add the following paragraph to this section:
- 
- Adaptations in clinical trials inherently introduce unpredictable
- demands on drug supply, potentially causing delays that adversely
- impact trial timelines. This challenge presents a significant
- opportunity to underscore the crucial role of operational planning in
- adaptive design strategies. An enhanced focus should be placed on
- thoroughly assessing the operational characteristics—specifically
- examining the impacts of adaptations on drug supply, randomization
- processes, data quality, and considerations for Multi-Regional
- Clinical Trials (MRCT), Decentralized Clinical Trials (DCT) and
- Pragmatic Clinical Trials (PCT). When evaluating the benefits and
- drawbacks of adaptive designs in contrast to traditional approaches,
- these operational aspects are pivotal. Moreover, the introduction of
- a 'design for adaptive operations' should be championed, ensuring
- that operational planning is as rigorously conceived as the
- statistical methods detailed in this guidance document. Doing so will
- help align operational strategies with statistical rigor to optimize
- trial efficiency and mitigate risks associated with supply
- fluctuations and other operational challenges.
-
 ** Conferences
 *** RISW 2025
- Reserve a room for us on Wednesday (9/24) of the meeting: Santoro, Kathleen <kathleen@amstat.org>
+ + Reserve a room for us on Wednesday (9/24) of the meeting: Santoro, Kathleen <kathleen@amstat.org>
 
- RISW co-chairs for 2025: Yingwen.dong@sanofi.com and Wanjie.sun@fda.hhs.gov
-
- JSM 2026: 2026 chair Steve Novick (steven.novick@takeda.com) in March 2026.
+ + RISW co-chairs for 2025: Yingwen.dong@sanofi.com and Wanjie.sun@fda.hhs.gov
 
 *** BASS 2025 workshop (November 2025 Savannah)
  Anyone interested in presenting?
  
 *** ENAR 2026 Indianapolis
 
-Kyle Wathen: Chair (Emerging Software Tools for Planning and Monitoring)
+- Kyle Wathen: Chair
 
-Inna Perevozskaya: Methods in Trial Monitoring and Operational Excellence: An Overview
-Vlad Anisimov: Advanced Data-Driven Statistical Technologies for Designing and Forecasting Clinical Trial Operations
-Forrest Williamson: Challenges of Pediatric Studies: Unlocking Opportunities for Operational Innovation
-Ziqian Geng: Complexities of Randomization Setup in Platform Trials: A Statistician’s Perspective
+- Inna Perevozskaya: Methods in Trial Monitoring and Operational Excellence: An Overview
+
+- Vlad Anisimov: Advanced Data-Driven Statistical Technologies for Designing and Forecasting Clinical Trial Operations
+
+- Forrest Williamson: Challenges of Pediatric Studies: Unlocking Opportunities for Operational Innovation
+
+- Ziqian Geng: Complexities of Randomization Setup in Platform Trials: A Statistician’s Perspective
 
 *** IBC 2026 Seoul
- Fei Chen : Efficiency+ Scientific Working Group
+- Fei Chen: Efficiency+ Scientific Working Group
  
- Xun Chen : Data-Driven Decision Making: The Role of Statistical Modeling in Improving Clinical Trial Success
- Vlad Anisimov : Advanced Data-Driven Statistical Technologies for Designing and Forecasting Clinical Trial Operations
- Eun Young Suh : Operational Challenges and Lessons Learned in a Very Large Phase 3 Program
- Palanikumar Ravindran : Integrating GenAI-Enabled Machine Learning Models for Optimization of Clinical Trial Operations and Success Metrics
- Kyle Wathen : Emerging Software Tools for Planning and Monitoring
+- Xun Chen: Data-Driven Decision Making: The Role of Statistical Modeling in Improving Clinical Trial Success
+ 
+- Eun Young Suh : Operational Challenges and Lessons Learned in a Very Large Phase 3 Program
+  
+- Vlad Anisimov : Advanced Data-Driven Statistical Technologies for Designing and Forecasting Clinical Trial Operations
+ 
+- Palanikumar Ravindran : Integrating GenAI-Enabled Machine Learning Models for Optimization of Clinical Trial Operations and Success Metrics
 
-*** MBSW 2026
-*** JSM 2026 SWG working session?
-*** PSI 2026
- Central Monitoring SWG
-*** RISW 2026
-*** Operations focus conferences?
+- Kyle Wathen : Emerging Software Tools for Planning and Monitoring
+
+** Other Conferences To Do
+- MBSW 2026
+- JSM 2026 SWG working session?
+  + Contact chair Steve Novick (steven.novick@takeda.com) in March 2026
+- RISW 2026  
+- PSI 2026
+  + Central Monitoring SWG
+*** Operations Focused Conferences?
  | Society for Clinical Trials (SCT) Annual Meeting | Clinical trial design, implementation             | Oct 2026  |
  | Clinical Trials Methodology Conference           | Advanced clinical trial design, methodology       | Feb 2026  |
  | Conference on Statistical Practice (CSP)         | Practical statistical approaches in pharma trials | Sept 2025 |
 ** Teams and Github
- Teams chat works a bit?
-** Social Media
+ Teams chat works?
+** Media
+*** Web
+ https://efficiencyplustrials.github.io
 *** Linkedin
- efficiencyplustrials@gmail.com
- https://www.linkedin.com/groups/13353006/ # group page
+ https://www.linkedin.com/groups/13353006/
 *** X
- @efficiencyplus
-** https://efficiencyplustrials.github.io/
- needs updating and maintenance
-** Other SWGs
- Centralized Statistical Monitoring and Quality Tolerance Limits
-  cannot find any information
-** Workstreams
- [[todo.org][topics]]
+ [[https://x.com/efficiencyplus][@efficiencyplus]]
+** Collaboration with Other SWGs
+ - Centralized Statistical Monitoring and Quality Tolerance Limits
+   - Cannot find any information
+
+
+
+ 

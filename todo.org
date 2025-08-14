@@ -1,13 +1,8 @@
-* Workstreams <2025-07-10 Thu>
+* Workstream Topics
 
-  Please enter your name under each focus area if you are interested to actively contribute to the workstream 
-   (Please see the SWG proposal (Presentations/Proposal for a Scientific Working Group_submitted_2.pdf) for 
-    details on what was originally envisaged under each focus area.)
-
-  Please also enter ONE key question that would be most important for you to address under the focus area
+  Please enter ONE key question that would be most important for you to address under the focus area
   that you would like to contribute to.
-
-* Topics
+  
 ** Site selection and performance modeling using data-driven approaches
 
   + Bohdana Ratitch: Which predictive analytics and ML approaches are the most suitable and effective 
@@ -16,6 +11,7 @@
      - How do data privacy or access limitations impact the effectiveness of above?
      - How to use RWD or external data sources to identify additional sites
   + Zhuoxin Yu: What public available data or commercially available database could be leveraged to select sites, investigators, and study committee members? How to utilize these data? 
+  + Bochao Jia: may need to evaluate site performance in different perspectives: operational performance (i.e focus on key risk indication and QTLs) and data quality (i.e     identify odds data pattern and anomalies). 
 
 ** Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast
@@ -28,6 +24,7 @@
     forecast, with what weight? Sources of information include:
     actuals, historical projections on sites, expecations of local
     teams, baseline plan
+  + Bochao Jia: We may need to differentiate the screening projection, enrollment (randomization projection) and the projection of time for enrollment completion may be       more interested.
 
 ** Study design and its impact on operations
   + Haoyu Wang: How to further facilitate/simplify/remove hurdles when
@@ -56,12 +53,12 @@
      up/skipping-visit modeling
    + Fei Chen: Overview of 4C and other drug demand forecast software
      and workflows and provide practical guidelines on how to engage
-     stakeholders and improve workflow
-   + Fei Chen: how to demonstrate retroactively using existing supply
-     software like 4c counter-factual outcomes through simulation
-   + Fei Chen: simulation based platform for 4C + OMP
+     stakeholders to improve their workflow
+   + Fei Chen: simulation based platform for 4C + OMP     
+   + Fei Chen: how to demonstrate value of statistics: retroactively
+     using existing supply software like 4c counter-factual outcomes
+     through simulation
      
-
 ** Dynamic Trial Monitoring & Adaptive Operations
   + Palani Ravindran: Which operational metrics and AI/ML techniques
     are most predictive and reliable for emerging risks in ongoing
@@ -70,13 +67,38 @@
   + Zhuoxin Yu: How to better predict and monitor events and dropouts, both at study level and at region/site level?
 
 ** Regulatory perspectives
+** [[https://www.ema.europa.eu/en/ich-e20-adaptive-designs-clinical-trials-scientific-guideline][ICH E20 Adaptive Design]]
   + Fei Chen: recommend more rigorous operational planning into study design
+    - 5.6:855 Operational Considerations
+      - Use of an adaptive design can add challenges to the operational execution of a clinical trial and these should be addressed at the trial planning stage.
+    - Propose to add the following paragraph to section
+   
+ Adaptations in clinical trials inherently introduce unpredictable
+ demands on drug supply, potentially causing delays that adversely
+ impact trial timelines. This challenge presents a significant
+ opportunity to underscore the crucial role of operational planning in
+ adaptive design strategies. An enhanced focus should be placed on
+ thoroughly assessing the operational characteristics—specifically
+ examining the impacts of adaptations on drug supply, randomization
+ processes, data quality, and considerations for Multi-Regional
+ Clinical Trials (MRCT), Decentralized Clinical Trials (DCT) and
+ Pragmatic Clinical Trials (PCT). When evaluating the benefits and
+ drawbacks of adaptive designs in contrast to traditional approaches,
+ these operational aspects are pivotal. Moreover, the introduction of
+ a 'design for adaptive operations' should be championed, ensuring
+ that operational planning is as rigorously conceived as the
+ statistical methods detailed in this guidance document. Doing so will
+ help align operational strategies with statistical rigor to optimize
+ trial efficiency and mitigate risks associated with supply
+ fluctuations and other operational challenges.
 
 ** Stakeholder engagement
   + Fei Chen: How to effectively engage and collaborate across different
     operational teams and functions (e.g. clinical supply chain vs
     trial delivery & execution), convince stake holders to embrace
     change and overcome territorial issues
+  + Fei Chen: how to demonstrate value through retrospective
+    counter-factual analysis based on existing workflow?
 
 ** Strategic data collection and analysis planning for alignment with Target Product Profile
   + Zhuoxin Yu: What is the best blood sample collection strategy for PK, ADA, biomarkers, to reduce the total amount of blood needed from patients while maintain the quality of data analyses. 
@@ -86,4 +108,10 @@
 ** Patient engagement: and best practices for evaluating participant satisfaction
 
 ** Analysis implementation efficiency
+=======
+** Please enter a new focus area if the above list does not represent your key interests
+
+ - Patient engagement: and best practices for evaluating participant satisfaction
+ - Analysis implementation efficiency
+
 
