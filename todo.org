@@ -75,9 +75,10 @@
     trial delivery & execution), convince stake holders to embrace
     change and overcome territorial issues
 
-* Please enter a new focus area if the above list does not represent your key interests
-
 ** Strategic data collection and analysis planning for alignment with Target Product Profile
+  + Zhuoxin Yu: What is the best blood sample collection strategy for PK, ADA, biomarkers, to reduce the total amount of blood needed from patients while maintain the quality of data analyses. 
+
+* Please enter a new focus area if the above list does not represent your key interests
 
 ** Patient engagement: and best practices for evaluating participant satisfaction
 
